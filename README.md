@@ -13,13 +13,13 @@
 
 - 👯 I’m looking to collaborate on **KEC Bus Fees Management System**
 
-- 👨‍💻 All of my projects are available at [https://hariharan2607.com](https://hariharan2607.com)
+- 👨‍💻 All of my projects are available at [https://harihara-r.github.io/Hari_Portfolio/ ](https://harihara-r.github.io/Hari_Portfolio/)
 
 - 💬 Ask me about **Spring Boot, JavaScript**
 
 - 📫 How to reach me **hariharanramars@gmail.com**
 
-- 📄 Know about my experiences [https://hariharan-resume.com](https://hariharan-resume.com)
+- 📄 Know about my experiences [https://hariharan-resume.com](https://drive.google.com/file/d/1_718PzSXiZH41ShEf0OzKObSPFGVUYkR/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
