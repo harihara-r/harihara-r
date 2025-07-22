@@ -26,13 +26,11 @@
   <a href="https://twitter.com/hariharan_dev" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hariharan_dev" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/hariharan-ramar" target="blank">
+  <a href="https://www.linkedin.com/in/--hariharan-r/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hariharan-ramar" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/hariharan_dev" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hariharan_dev" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/hariharan_dev" target="blank">
+
+  <a href="https://leetcode.com/u/hariharanramar/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hariharan_dev" height="30" width="40" />
   </a>
 </p>
