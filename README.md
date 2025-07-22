@@ -58,7 +58,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harihara-r&" alt="harihara-r" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnupriya2607&show_icons=true&locale=en&layout=compact" alt="vishnupriya2607" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnupriya2607&" alt="vishnupriya2607" /></p>
 
